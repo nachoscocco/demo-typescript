@@ -38,7 +38,7 @@
         console.log(nami);
        
     }
-    extraerMug(mugiwaras)
+    extraerMug(mugiwaras);
 
 })();
 

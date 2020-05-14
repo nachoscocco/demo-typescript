@@ -1,4 +1,4 @@
-(()=>{
+    (()=>{
 
     interface Xmen{          //clase boba sin constructores
         nombre:string,       //forma de definir reglas, si quiero utilizar un xmen
